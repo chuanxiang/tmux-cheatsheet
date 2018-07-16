@@ -1,4 +1,4 @@
-# Tmux Cheet Sheet
+# Tmux Cheat Sheet
 
 ```
 All commands start with :, use Ctrl-b followed by :
